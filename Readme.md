@@ -2,7 +2,6 @@
 
 - pip install -r requirements.txt
 - [Prosperity 2 Wiki](https://imc-prosperity.notion.site/Prosperity-2-Wiki-fe650c0292ae4cdb94714a3f5aa74c85)
-- [ChatGPT Convo](https://chat.openai.com/share/36e75f85-2dfc-4cb5-8354-f462c66daa0b)
 
 # The Challenge
 

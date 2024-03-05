@@ -1,0 +1,7 @@
+pandas
+numpy
+statistics
+typing
+jsonpickle
+tensorflow
+scikit-learn
